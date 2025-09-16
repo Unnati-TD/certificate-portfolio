@@ -9,8 +9,8 @@ Feel free to explore the certificates below, each including a preview and a link
 
 | Certificate Title | Description | Preview Image | View / Verify |
 |------------------|-------------|----------------|----------------|
-| **Red Hat Certified System Administrator (RHCSA)** | Credential demonstrating core system administration skills required in Red Hat Enterprise Linux environments. | <img src="images/rhcsa-preview.jpg" width="250"> | [🔗 View on Red Hat](https://www.redhat.com/rhcsa/verify) |
-| **Google Cloud Digital Leader** | Validates knowledge of basic Google Cloud concepts and services. Ideal for non-technical and technical users. | <img src="images/gcp-digital-leader.jpg" width="250"> | [🔗 Verify on Google](https://www.cloudskillsboost.google/public_profiles/12345678-verify-link) |
+| **Red Hat Certified System Administrator (RHCSA)** | Credential demonstrating core system administration skills required in Red Hat Enterprise Linux environments. | <img src="Images/RHCSA_Example_Certificate.jpg" width="250"> | [🔗 Verify](https://www.credly.com/badges) |
+| **Google Cloud Digital Leader** | Validates knowledge of basic Google Cloud concepts and services. Ideal for non-technical and technical users. | <img src="Images/Google_CDL_example_certificate.png" width="250"> | [🔗 Verify](https://www.credly.com/badges) |
 
 ---
 
